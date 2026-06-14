@@ -29,7 +29,13 @@ export default function App() {
               LinkedIn
             </a>
 
-            <a href="/resume.pdf">Resume</a>
+            <a
+              href="/my-resume-2.docx"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Resume
+            </a>
           </div>
         </div>
       </section>

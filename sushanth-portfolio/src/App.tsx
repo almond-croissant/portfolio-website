@@ -59,7 +59,6 @@ export default function App() {
             <li>Researching machine unlearning security</li>
             <li>Learning neural networks and deep learning</li>
             <li>Building software projects</li>
-            <li>Exploring startups and product management</li>
           </ul>
         </div>
       </section>
